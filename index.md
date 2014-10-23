@@ -15,7 +15,7 @@ front the computer without figures leaving the keyboard. I am obsessive-compulsi
 installing or recovering the operating system, I will spend nearly half a day to set the configurations of the common used 
 softwares, like the R and latex plug-ins in vim, the inverse and forward search between WinEdt and SumatraPDF, the 
 global short keys by AHK, Cygwin in windows, the plug-ins in Google Chromes and Firefox... People usually say that Linux is more
-stable than windows. But I have re-installed Ubuntu on Win7 for  more than five times in one week due to the problem of Ubuntu 
+stable than windows. But I have re-installed Ubuntu on Win 7 for  more than five times in one week due to the problem of Ubuntu 
 system. Now when I work on Ubuntu, I will be so careful when shutting down the computer in case it will not wake up next time. 
 But in windows, every night I will use "shutdown -s -f -t 3600" before I go to sleep and listen  cross talk or documentary film
 for one hour.
