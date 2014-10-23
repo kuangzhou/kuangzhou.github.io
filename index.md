@@ -9,7 +9,7 @@ I am a Ph.D student both in [Northwestern Polytecnical University](http://www.nw
 Rennes 1](http://www.nwpu.edu.cn/)in France. My major is
 mathematics in my bachelor and master periods. Now I am pursing my doctoral degree in information. When learning maths, 
 programming is easier for me. But when learning programming, mathematic is too difficult. My favourite programming language is
-R. An old goes saying like that the one who only uses R and MatLab is not a real programmer. In order to let myself 
+R. An old saying goes like that the one who only uses R and MatLab is not a real programmer. In order to let myself 
 believe that I am a programmer, I use vim for editing R scripts. It is really amazing of the trip with vim since we can sit in
 front the computer without figures leaving the keyboard. I am obsessive-compulsive for the softwares in the computer. All the  
 configurations in the software should be what I want. Otherwise I could not work even when there are some urgent tasks. After 
