@@ -52,7 +52,7 @@
 
 {{ content }}
 <footer>
-  <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub | Copyright 2005 - {{site.time | date:"%Y"}} by <a href="http://kuangzhou.github.io">Kuang ZHOU(周旷)</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
+  <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub | Copyright 2005 - {{site.time | date:"%Y"}} by <a href="http://kuangzhou.github.io">Kuang ZHOU (周旷)</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
 </footer>
 
 </div>

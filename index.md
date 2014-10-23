@@ -4,5 +4,9 @@ avatar: yes
 ---
 
 
-This is my homepage
+This is my homepage.
+
+这个中英文的博客模板是从[谢益辉](http://yihui.name/)那搬过来的。从刚开始接触R的时候就知道了谢益辉的名字。虽然和他不是一个领域，但是他做的东西一直深深吸引着我。这次想折腾折腾Github，于是直接借鉴了谢老大的模板。简洁的风格是我喜欢的。当然在模板中有一些小的改进。比如增加了一个分享悬窗。这是借鉴了[elizen ](http://code.elizen.me/)的代码。在些一并感谢。
+
+
 
