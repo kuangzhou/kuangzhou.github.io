@@ -15,7 +15,7 @@ front the computer without figures leaving the keyboard. I am obsessive-compulsi
 configurations in the software should be what I want. Otherwise I could not work even when there are some urgent tasks. After 
 installing or recovering the operating system, I will spend nearly half a day to set the configurations of the common used 
 softwares, like the R and latex plug-ins in vim, the inverse and forward search between Winedt and sumatraPDF, the 
-global short keys by AHK, Cygwin in windowns, the plug-ins in Google Chromes and Firefox... 
+global short keys by AHK, Cygwin in windows, the plug-ins in Google Chromes and Firefox...  
 
 ##主题来源##
 这个中英文的博客模板是从[谢益辉](http://yihui.name/
