@@ -6,7 +6,7 @@ avatar: yes
 # Welcome to my homepage#
 
 I am a Ph.D student both in [Northwestern Polytecnical University](http://en.nwpu.edu.cn/) in China and [University of
-Rennes 1](http://www.nwpu.edu.cn/) in France. My major is
+Rennes 1](https://www.univ-rennes1.fr/) in France. My major is
 mathematics in my bachelor and master periods. Now I am pursing my doctoral degree in information. When learning maths, 
 programming is easier for me. But when learning programming, mathematic is too difficult. My favourite programming language is
 R. An old saying goes like that the one who only uses R and MatLab is not a real programmer. In order to let myself 
