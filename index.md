@@ -3,8 +3,19 @@ layout: home
 avatar: yes
 ---
 
+# Welcome to my homepage#
 
-This is my homepage.
+I am a Ph.D student both in [Northwestern Polytecnical University](http://www.nwpu.edu.cn/) in China and [University of
+Rennes 1](http://www.nwpu.edu.cn/)in France. My major is
+mathematics in my bachelor and master periods. Now I am pursing my doctoral degree in information. When learning maths, 
+programming is easier for me. But when learning programming, mathematic is too difficult. My favourite programming language is
+R. An old goes saying like that the one who only uses R and MatLab is not a real programmer. In order to let myself 
+believe that I am a programmer, I use vim for editing R scripts. It is really amazing of the trip with vim since we can sit in
+front the computer without figures leaving the keyboard. I am obsessive-compulsive for the softwares in the computer. All the  
+configurations in the software should be what I want. Otherwise I could not work even when there are some urgent tasks. After 
+installing or recovering the operating system, I will spend nearly half a day to set the configurations of the common used 
+softwares, like the R and latex plug-ins in vim, the inverse and forward search between Winedt and sumatraPDF, the 
+global short keys by AHK, Cygwin in windowns, the plug-ins in Google Chromes and Firefox... 
 
 ##主题来源##
 这个中英文的博客模板是从[谢益辉](http://yihui.name/
