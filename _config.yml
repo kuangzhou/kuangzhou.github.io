@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kuang Zhou (周旷)"
-  avatar           : # "profile.png"
+  #avatar           : "profile.png"
   bio              : "School of mathematics and statistics, Northwestern Polytechnical University"
   location         : "Xi’an, China"
   employer         :
