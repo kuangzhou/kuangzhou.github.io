@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "KuangZhou's homepage"
+title: "Contact Information"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+School of mathematics and statistics
 
-Right now I am an associate professor at School of mathematics and statistics, Northwestern Polytechnical University, Xi’an, China. 
+Northwestern Polytechnical University
+
+1 Dongxiang Road, Chang'an District, Xi'an Shaanxi, China
+
+Email: kzhoumath@nwpu.edu.cn; kzhoumath@163.com
+
+
+
+# Research Interests
+
+- Statistical machine learning
+- Causal-inspired machine learning
+- Uncertain data analysis and fusion
+- Graph data analysis
+- Reliability analysis
