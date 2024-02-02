@@ -26,4 +26,4 @@ Email: kzhoumath@nwpu.edu.cn; kzhoumath@163.com
 
 # Openings
 
-I have openings for self-motivated undergraduate students and master students  with strong ability of statistics and programming skills. Please feel free to contact me if you are interested in my research fields.
+I have openings for self-motivated master students and undergraduate students with strong ability of statistics and programming skills (R and/or Python). Please feel free to contact me if you are interested in my research fields.
