@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kuang Zhou (周旷)"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kuang Zhou"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kuang Zhou"
-  avatar           : "profile.png"
+  avatar           : # "profile.png"
   bio              : "School of mathematics and statistics, Northwestern Polytechnical University"
   location         : "Xi’an, China"
   employer         :
