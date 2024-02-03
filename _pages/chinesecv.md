@@ -1,202 +1,50 @@
 ---
 permalink: /chinesecv/
-title: "chinesecv"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
   - /chinesecv.html
 ---
 
-## Locations of key files/directories
+# 教育经历
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* 2013.09 - 2016.07:  法国雷恩第一大学 信息科学 博士 导师：Prof. Arnaud Martin
+* 2012.09 - 2019.06：西北工业大学 控制理论与控制工程 博士 导师：潘泉教授
+* 2010.09 - 2013.03:  西北工业大学 应用数学 硕士 导师：师义民教授
+* 2006.09 - 2010.07:  长安大学 信息与计算科学 学士
 
-## Tips and hints
+# 工作经历
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* 2021.01 至今：西北工业大学 数学与统计学院 副教授
+* 2019.11-2021.01: 西北工业大学 数学与统计学院 助理教授
+* 2016.8 - 2019.11 : 西北工业大学 理学院 助理教授
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+# 研究方向 
 
-## Markdown guide
+-  统计机器学习（数据分类、聚类、统计推断、决策等）
+-  因果启发的机器学习（可解释、可泛化、公平的学习与推断机制）
+-  不确定数据挖掘与融合（不确定信息的建模与融合决策）
+-  统计推断（主要面向截尾、缺失等不完备数据）
+-  复杂网络与复杂系统（复杂系统的自动建模与分析）
 
-### Header three
+# 招生信息
 
-#### Header four
+* 招收专业：应用数学、概率论与数理统计
 
-##### Header five
+- 依托统计与复杂性科学团队，与美、法、德等国际一流高校和研究团队保持密切合作关系，为研究生提供高水平研究平台和充足科研经费
+- 欢迎有志于从事数据科学、统计学习等相关研究的同学报考！
 
-###### Header six
+# 获奖信息
 
-## Blockquotes
+- 陕西省科学技术一等奖（排名第6），不确定数据推理和重构理论及应用，2017
 
-Single line blockquote:
+# 科研项目
 
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+- 国家社会科学基金一般项目，基于大数据因果推理的社交网络群体行为预测与治理研究(No.23BTJ053)，2023-2026，主持
+- 国家自然科学基金青年项目，动态不确定环境下置信社团挖掘及在信息流控制中的应用 (No. 61701409)，2018.01-2020.12，主持 
+- 陕西省自然科学基础研究计划，动态网络主动置信社团挖掘及信息传播控制研究 (No.2018JQ6005)，2018.01-2019.12，主持
+- 航空科学基金，海面目标多射频传感器联合推理识别技术，2018.10-2020.09，主持
+- 中国航发西安动力控制科技有限公司横向课题，基于调整件消耗数据挖掘的数字化装配技术研究，2020.01-2020.12，主持
+- 中航工业成都飞机设计研究所横向课题，信能积回归模型开发，2018.6-2019.6，主持
+- 国家自然科学基金重大项目 (课题)，天空基大差异不确定环境下海洋目标信任识别 (No. 61790552)，2018.01-2022.12，参与
