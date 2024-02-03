@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
 * Ph.D in in Information Science, DRUID/IRISA, University of Rennes 1,  France, Sep 2013 – July 2016
 * Master in Applied Mathematics, School of Science, Northwestern Polytechnical University, China, Sep 2010 – March 2013
 * Bachelor in Information and Computer Science, School of Science, Chang’an University, Chinam, Sep 2006 – July 2010
