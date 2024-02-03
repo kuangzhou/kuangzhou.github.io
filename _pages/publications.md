@@ -60,7 +60,7 @@ redirect_from:
 
 # 2014
 
-- **Kuang Zhou**, Arnaud Martin, and Quan Pan. Evidential communities for complex networks. In 15th International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems, France. Springer, 2014: 557–566.
+- **Kuang Zhou**, Arnaud Martin, and Quan Pan. Evidential communities for complex networks. In 15th International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems. Springer, 2014: 557–566.
 - **Kuang Zhou**, Arnaud Martin, and Quan Pan. Evidential-EM algorithm applied to progressively censored observations. International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems. Springer, 2014: 180–189.
 - Wiem Maalel, **Kuang Zhou**, Arnaud Martin, and Zied Elouedi. Belief hierarchical clustering. International Conference on Belief Functions, Oxford, UK. Springer, 2014: 68-76.
 
