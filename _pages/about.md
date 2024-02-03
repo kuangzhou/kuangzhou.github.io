@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Contact
+
 School of mathematics and statistics
 
 Northwestern Polytechnical University
