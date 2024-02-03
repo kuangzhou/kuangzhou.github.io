@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "统计数据分析及可视化"
 collection: teaching
 type: "Master/Undergraduate course"
 permalink: /teaching/2024-spring-teaching-1
