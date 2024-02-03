@@ -12,7 +12,7 @@ redirect_from:
 * Ph.D, DRUID/IRISA, University of Rennes 1,  France, Sep 2013 – July 2016
   - Major: Information Science.
   - Supervisor: Prof. Arnaud Martin
-* Ph.D, School of automation, Northwestern Polytechnical University, China, Sep 2012 – June 2019
+* Ph.D, School of Automation, Northwestern Polytechnical University, China, Sep 2012 – June 2019
   * Major: Control theory and control engineering
   * Supervisor: Prof. Quan Pan
 
