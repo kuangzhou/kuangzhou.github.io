@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Xi'an, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+研究生专业课/本研衔接课程
 
 课程介绍
 ======
