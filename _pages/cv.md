@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in in Information Science, DRUID/IRISA, University of Rennes 1,  France, Sep 2013 – July 2016
 * Master in Applied Mathematics, School of Science, Northwestern Polytechnical University, China, Sep 2010 – March 2013
-* Bachelor in Information and Computer Science, School of Science, Chang’an University, September 2006 – July 2010
+* Bachelor in Information and Computer Science, School of Science, Chang’an University, Chinam, Sep 2006 – July 2010
 
 Work experience
 ======
