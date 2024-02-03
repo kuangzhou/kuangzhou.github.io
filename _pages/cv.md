@@ -40,6 +40,15 @@ Research Interests
 * Graph data analysis
 * Reliability analysis
 
+# Projects
+
+- National Social Science Foundation of China: Predicting and regulating group behavior in social networks based on causal inference, 2023-2026
+- National Natural Science Foundation of China: Evidential community detection in dynamic and uncertain environment and its application to information flow control, 2018-2020
+- Natural Science Basic Research Plan in Shaanxi Province of China: Active evidential community mining on dynamic networks and information propagation, 2018-2019
+- Aeronautical Science Foundation of China, Joint Inference and Identification Technology of Multiple RF Sensors for Sea Surface Targets, Oct 2018 to Sep 2020
+- Collaborative project, Digital assembly technology based on data ming of adjustment part consumption, Jan 2021- Dec 2020
+- Collaborative project, Regression model for Information and energy, June 2018 -  June 2019
+
 Publications
 ======
   <ul>{% for post in site.publications %}
