@@ -49,25 +49,17 @@ Research Interests
 - Collaborative project, Digital assembly technology based on data ming of adjustment part consumption, Jan 2021- Dec 2020
 - Collaborative project, Regression model for Information and energy, June 2018 -  June 2019
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- Data analysis and visualization (For master students and undergraduate students)
+- Uncertain data mining and fusion reasoning (For master students)
+- Mathematical Statistics (in Englush, For master students and Ph.D. students)
+- Statistical computing with R (For third-year undergraduate students)
+
 
 Service
 ======
 * Member of China Society for Industrial and Applied Mathematics
 * Member of Belief functions and Applications society
+* Reviewer of IEEE TNNLS, TKDE, TFS, Information Sciences, Pattern Recognition, Knowledge-Based Systems...
