@@ -9,9 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-* Ph.D in in Information Science, DRUID/IRISA, University of Rennes 1,  France, Sep 2013 – July 2016
-* Master in Applied Mathematics, School of Science, Northwestern Polytechnical University, China, Sep 2010 – March 2013
-* Bachelor in Information and Computer Science, School of Science, Chang’an University, Chinam, Sep 2006 – July 2010
+* Ph.D, DRUID/IRISA, University of Rennes 1,  France, Sep 2013 – July 2016
+  - Major: Information Science.
+  - Supervisor: Prof. Arnaud Martin
+* Ph.D, School of automation, Northwestern Polytechnical University, China, Sep 2012 – June 2019
+  * Major: Control theory and control engineering
+  * Supervisor: Prof. Quan Pan
+
+* Master, School of Science, Northwestern Polytechnical University, China, Sep 2010 – March 2013
+  * Major: Applied Mathematics
+  * Supervisor: Prof. Yimin Shi
+
+* Bachelor, School of Science, Chang’an University, Chinam, Sep 2006 – July 2010
+  * Major: Information and Computer Science
+
 
 Work experience
 ======
