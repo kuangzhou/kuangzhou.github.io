@@ -56,8 +56,9 @@ Teaching
 ======
 - Data analysis and visualization (For master students and undergraduate students)
 - Uncertain data mining and fusion reasoning (For master students)
-- Mathematical Statistics (in Englush, For master students and Ph.D. students)
+- Mathematical statistics (in English, For master students and Ph.D. students)
 - Statistical computing with R (For third-year undergraduate students)
+- Probability and statistics (For undergraduate students)
 
 
 Service
