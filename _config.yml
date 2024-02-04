@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kuang Zhou (周旷)"
   avatar           : "user.jpg"
-  bio              : "School of mathematics and statistics, Northwestern Polytechnical University"
+  bio              : "School of Mathematics and Statistics, Northwestern Polytechnical University"
   location         : "Xi’an, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=M3CQcPEAAAAJ&hl=zh-CN"
-  email            :
+  email            :  kzhoumath@nwpu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
