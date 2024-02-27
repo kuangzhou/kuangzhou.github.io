@@ -39,8 +39,8 @@ redirect_from:
   - 有一定的编程能力 （R and/or Python)，至少是有学习编程的意愿与能力
 
   - 有执行力、有思考力、有预见力
-  
-  - 有兴趣的同学请邮件联系: kzhoumath@nwpu.edu.cn
+
+* 2024年硕士研究生统考还有招生名额，有兴趣的同学请邮件联系: kzhoumath@nwpu.edu.cn
 
 # 教育教学
 
