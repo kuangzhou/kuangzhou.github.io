@@ -28,4 +28,4 @@ Email: kzhoumath@nwpu.edu.cn
 
 # Openings
 
-I have openings for students who have successfully passed the 2024 master's degree entrance exam. For those interested in my research fields, please contact me via email
+I have openings for students who have successfully passed the 2024 master's degree entrance exam. For those interested in my research fields, please contact me via email.
