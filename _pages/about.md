@@ -21,8 +21,8 @@ Email: kzhoumath@nwpu.edu.cn
 # Research Interests
 
 - Statistical machine learning
-- Causal-inspired machine learning
 - Uncertain data analysis and fusion
+- Causal inference and causal-inspired machine learning
 - Graph data analysis
 - Reliability analysis
 
