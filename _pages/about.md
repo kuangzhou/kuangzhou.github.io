@@ -28,4 +28,4 @@ Email: kzhoumath@nwpu.edu.cn
 
 # Openings
 
-I have openings for self-motivated master students and undergraduate students with strong ability of statistics and programming skills (R and/or Python). Please feel free to contact me if you are interested in my research fields.
+I have openings for students who have successfully passed the 2024 master's degree entrance exam. For those interested in my research fields, please contact me via email kzhoumath@nwpu.edu.cn
