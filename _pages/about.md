@@ -28,6 +28,4 @@ Email: kzhoumath@nwpu.edu.cn
 
 # Openings
 
-- [2024-03] Right now I still have some openings for students who have successfully passed the 2024 master's degree entrance exam. For those interested in my research fields, please contact me via email.
-
--  For undergraduate students who want to conduct research related to statistics and machine learning,  please feel free to contact me.
+- I hvae openings for undergraduate students and master students who want to conduct research related to statistics and machine learning,  please feel free to contact me if you are interested.

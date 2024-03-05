@@ -40,8 +40,6 @@ redirect_from:
 
   - 有执行力、有思考力、有预见力
 
-* 2024年硕士研究生统考还有招生名额，有兴趣的同学请邮件联系: kzhoumath@nwpu.edu.cn
-
 # 教育教学
 
 - [统计数据分析及可视化 (研究生专业课、本研衔接课程)](https://kuangzhou.github.io/teaching/2024-spring-teaching-1)
