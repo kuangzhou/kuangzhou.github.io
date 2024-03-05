@@ -40,6 +40,8 @@ redirect_from:
 
   - 有执行力、有思考力、有预见力
 
+* 欢迎邮件联系：kzhoumath@nwpu.edu.cn
+
 # 教育教学
 
 - [统计数据分析及可视化 (研究生专业课、本研衔接课程)](https://kuangzhou.github.io/teaching/2024-spring-teaching-1)
