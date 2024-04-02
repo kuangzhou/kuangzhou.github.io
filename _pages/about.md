@@ -28,4 +28,4 @@ Email: kzhoumath@nwpu.edu.cn
 
 # Openings
 
-- I hvae openings for undergraduate students and master students who want to conduct research related to statistics and machine learning,  please feel free to contact me if you are interested.
+- I have openings for undergraduate students and master students who want to conduct research related to statistics and machine learning,  please feel free to contact me if you are interested.
