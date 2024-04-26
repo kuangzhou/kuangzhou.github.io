@@ -9,7 +9,7 @@ redirect_from:
 
 # 2023
 
-- **Kuang Zhou**, Ming Jiang, Bogdan Gabrys. GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation. IEEE Conference on Systems, Man, and Cybernetics, 2023.
+- **Kuang Zhou**, Ming Jiang, Bogdan Gabrys. GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation. IEEE Conference on Systems, Man, and Cybernetics, 2023, 3777-3782.
 - Liang Wang, Dingqi Yang, Zhiwen Yu, Qi Han, En Wang, **Kuang Zhou**, Bin Guo. Acceptance-Aware Mobile Crowdsourcing Worker Recruitment in Social Networks. IEEE Transactions on Mobile Computing, 2023, 22(2):634-646.
 
 # 2022
@@ -36,7 +36,7 @@ redirect_from:
 
 # 2018
 
-- **Kuang Zhou**, Arnaud Martin, Quan Pan, and Zhunga Liu. SELP: Semi-supervised evidential label propagation algorithm for graph data clustering. International Journal of Approximate Reasoning, 92: 139-154, 2018.
+- **Kuang Zhou**, Arnaud Martin, Quan Pan, and Zhunga Liu. SELP: Semi-supervised evidential label propagation algorithm for graph data clustering. International Journal of Approximate Reasoning, 2018, 92: 139-154.
 - **Kuang Zhou**, Quan Pan and Arnaud Martin. Evidential community detection based on density peaks. International Conference on Belief Functions. Springer, 2018: 269-277.
 
 
@@ -47,15 +47,15 @@ redirect_from:
 
 # 2016
 
-- **Kuang Zhou**, Arnaud Martin, Quan Pan, and Zhunga Liu. ECMdd: Evidential c-medoids clustering with multiple prototypes. Pattern Recognition, 60:239–257, 2016.
-- **Kuang Zhou**, Arnaud Martin, and Quan Pan. The Belief-Noisy-OR model applied to network reliability analysis. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 24(06):937-960, 2016.
+- **Kuang Zhou**, Arnaud Martin, Quan Pan, and Zhunga Liu. ECMdd: Evidential c-medoids clustering with multiple prototypes. Pattern Recognition, 2016, 60:239–257.
+- **Kuang Zhou**, Arnaud Martin, and Quan Pan. The Belief-Noisy-OR model applied to network reliability analysis. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 2016, 24(06):937-960.
 - **Kuang Zhou**, Arnaud Martin, Quan Pan, and Zhunga Liu. Evidential label propagation algorithm for graphs. International Conference on Information Fusion. IEEE, 2016: 1316–1323.
 - **Kuang Zhou**, Arnaud Martin, and Quan Pan. Semi-supervised evidential label propagation algorithm for graph data. International Conference on Belief Functions. Springer, 2016: 123–133. (Award: Best student paper)
 
 # 2015
 
-- **Kuang Zhou**, Arnaud Martin, Quan Pan, and Zhunga Liu. Median evidential c-means algorithm and its application to community detection. Knowledge-Based Systems, 74:69–88, 2015.
-- **Kuang Zhou**, Arnaud Martin, and Quan Pan. A similarity-based community detection method with multiple prototype representation. Physica A: Statistical Mechanics and its Applications, 438:519–531, 2015.
+- **Kuang Zhou**, Arnaud Martin, Quan Pan, and Zhunga Liu. Median evidential c-means algorithm and its application to community detection. Knowledge-Based Systems, 2015, 74:69–88.
+- **Kuang Zhou**, Arnaud Martin, and Quan Pan. A similarity-based community detection method with multiple prototype representation. Physica A: Statistical Mechanics and its Applications, 2015, 438:519–531.
 - **Kuang Zhou**, Arnaud Martin, Quan Pan, and Zhunga Liu. Evidential relational clustering using medoids. International Conference on Information Fusion. IEEE, 2015: 413–420.
 
 # 2014
