@@ -49,7 +49,7 @@ redirect_from:
     * 利用统计机器学习方法，从社交网络、产品寿命等复杂数据中提炼规律
     * 发挥数据分析核心要义：创造数据价值
     
-  * 有兴趣的同学请邮件联系：kzhoumath@nwpu.edu.cn
+* 有兴趣的同学请邮件联系：kzhoumath@nwpu.edu.cn
 
 
 # 教育教学
