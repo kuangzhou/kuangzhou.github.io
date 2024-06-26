@@ -45,9 +45,9 @@ redirect_from:
     * 学习模型要"贵有自知之明"
     * 知其然，知其所以然，知其不所以然
     
-  * Complex data analysis: 复杂数据分析（1人）
+  * Complex data analysis: 复杂数据分析
     * 利用统计机器学习方法，从社交网络、产品寿命等复杂数据中提炼规律
-    * 数据分析的核心要义是创造数据价值
+    * 发挥数据分析核心要义：创造数据价值
     
   * 有兴趣的同学请邮件联系：kzhoumath@nwpu.edu.cn
 
