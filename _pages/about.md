@@ -18,6 +18,8 @@ redirect_from:
 
 # Openings
 
+:new: 2025级硕士研究生还有1个统考名额，欢迎报考咨询
+
 - I have openings for undergraduate students and master students who want to conduct research related to statistics and machine learning,  please feel free to contact me if you are interested.
 
 # Contact
