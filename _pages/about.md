@@ -18,7 +18,7 @@ redirect_from:
 
 # Openings
 
-<font color="red">NEW</font> 2025级硕士研究生还有1个统考名额，欢迎报考咨询
+<font color="red">NEW</font>2025级硕士研究生还有1个统考名额，欢迎报考咨询
 
 - I have openings for undergraduate students and master students who want to conduct research related to statistics and machine learning,  please feel free to contact me if you are interested.
 
