@@ -4,7 +4,7 @@ collection: Courses
 type: "Master/Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Northwestern Polytechnical University"
-date: 2025-02
+date: 2025-02-15
 location: "Xi'an, China"
 ---
 
@@ -22,11 +22,11 @@ location: "Xi'an, China"
 
 # 课程安排
 
-- 2024-2025春学期 
-  - 教学西楼B座-教西B213 (第4-11周 星期三/五 3-4 <10:30-12:10>)
+- 2024-2025春学期课程安排
+  - 教学西楼B座-教西B213 (第4-11周 星期三/五 3-4  10:30-12:10)
 
 - 建议在学完概率论与数理统计课程之后修读
-- 2024-2025 春学期想修读本课程的**本科生**请关注教务处最近关于本研衔接课程的相关选课通知
+- 想修读本课程的**本科生**请关注教务处关于本研衔接课程相关选课通知
 
 参考教材
 ======
