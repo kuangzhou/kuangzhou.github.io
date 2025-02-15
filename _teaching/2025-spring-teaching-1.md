@@ -4,7 +4,7 @@ collection: Courses
 type: "Master/Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Northwestern Polytechnical University"
-date: 2025-02-15
+date: 2025-02
 location: "Xi'an, China"
 ---
 
