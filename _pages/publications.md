@@ -7,10 +7,14 @@ redirect_from:
   - /publications.html
 ---
 
+# 2024 
+
+- Kuang Zhou, Yuchen Zhu, Mei Guo, Ming Jiang. MvWECM: Multi-view weighted evidential c-Means clustering. Pattern Recognition, 2025, 159: 111108.
+
 # 2023
 
 - **Kuang Zhou**, Ming Jiang, Bogdan Gabrys. GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation. IEEE Conference on Systems, Man, and Cybernetics, 2023, 3777-3782.
-- Liang Wang, Dingqi Yang, Zhiwen Yu, Qi Han, En Wang, **Kuang Zhou**, Bin Guo. Acceptance-Aware Mobile Crowdsourcing Worker Recruitment in Social Networks. IEEE Transactions on Mobile Computing, 2023, 22(2):634-646.
+- Liang Wang, Dingqi Yang, Zhiwen Yu, Qi Han, En Wang, **Kuang Zhou**, Bin Guo. Acceptance-aware mobile crowdsourcing worker recruitment in social networks. IEEE Transactions on Mobile Computing, 2023, 22(2):634-646.
 
 # 2022
 
@@ -23,11 +27,11 @@ redirect_from:
 - Zuowei Zhang, Hongpeng Tian, Lingzhi Yan, Arnaud Martin, **Kuang Zhou**. Learning a credal classifier with optimized and adaptive multiestimation for missing data imputation. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021, 52(7): 4092-4104.
 - Zuowei Zhang, Zhunga Liu, Arnaud Martin, **Kuang Zhou**. Dynamic evidential clustering algorithm. Knowledge-Based Systems, 2021, 213: 106643.
 - **Kuang Zhou**, Mei Guo, Arnaud Martin. Evidential clustering based on transfer learning. International Conference on Belief Functions. Springer, Cham, 2021: 56-65. (Award: Best paper)
-- **Kuang Zhou**, Mei Guo, Ming Jiang. Evidential Weighted Multi-view Clustering. International Conference on Belief Functions. Springer, Cham, 2021: 22-32.
+- **Kuang Zhou**, Mei Guo, Ming Jiang. Evidential weighted multi-view clustering. International Conference on Belief Functions. Springer, Cham, 2021: 22-32.
 
 # 2020
 
-- **Kuang Zhou**, Yimin Shi. Evidential Estimation of an Uncertain Mixed Exponential Distribution under Progressive Censoring. Entropy, 2020, 22(10): 1106.
+- **Kuang Zhou**, Yimin Shi. Evidential estimation of an uncertain mixed exponential distribution under progressive censoring. Entropy, 2020, 22(10): 1106.
 - Zhunga Liu, Linqing Huang, **Kuang Zhou**, Thierry Denœux. Combination of transferable classification with multisource domain adaptation based on evidential reasoning. IEEE Transactions on Neural Networks and Learning Systems, 2020, 32(5): 2015-2029.
 
 # 2019
@@ -43,7 +47,7 @@ redirect_from:
 # 2017
 
 - **Kuang Zhou**, Arnaud Martin, and Quan Pan. Evidence combination for a large number of sources. International Conference on Information Fusion. IEEE, 2017:1-8.
-- Salma Ben Dhaou, **Kuang Zhou**, Mouloud Kharoune, Arnaud Martin, and Boutheina Ben Yaghlane. The Advantage of Evidential Attributes in Social Networks. In 20th International Conference on Information Fusion, IEEE, 2017: 991–998.
+- Salma Ben Dhaou, **Kuang Zhou**, Mouloud Kharoune, Arnaud Martin, and Boutheina Ben Yaghlane. The advantage of evidential attributes in social networks. In 20th International Conference on Information Fusion, IEEE, 2017: 991–998.
 
 # 2016
 
