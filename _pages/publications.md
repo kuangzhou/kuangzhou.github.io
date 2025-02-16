@@ -9,7 +9,7 @@ redirect_from:
 
 # 2024 
 
-- Kuang Zhou, Yuchen Zhu, Mei Guo, Ming Jiang. MvWECM: Multi-view weighted evidential c-Means clustering. Pattern Recognition, 2025, 159: 111108.
+- **Kuang Zhou**, Yuchen Zhu, Mei Guo, Ming Jiang. MvWECM: Multi-view weighted evidential c-Means clustering. Pattern Recognition, 2025, 159: 111108.
 
 # 2023
 
