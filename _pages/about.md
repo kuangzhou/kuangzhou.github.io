@@ -12,13 +12,23 @@ redirect_from:
 
 - Statistical machine learning
 - Uncertain data analysis and fusion
-- Causal inference and causal-inspired machine learning
+- Causal-inspired machine learning
 - Graph data analysis
 - Reliability analysis
 
+# What are we doing
+
+In simple terms, our goal is try to address the following issues in machine learning
+
+- Know what the machine knows, and **understand why it knows**
+
+- **Know what the machine does not know**, and **be aware of why it  does not know**
+
+知明者，溯其光；知晦者，探其疆。
+
 # Openings
 
-【NEW】2025级硕士研究生还有1个统考名额，欢迎报考咨询
+【**NEW**】2025级硕士研究生还有1个统考招生名额，欢迎报考咨询
 
 - I have openings for undergraduate students and master students who want to conduct research related to statistics and machine learning,  please feel free to contact me if you are interested.
 
