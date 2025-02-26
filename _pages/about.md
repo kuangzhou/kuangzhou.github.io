@@ -18,7 +18,7 @@ redirect_from:
 
 # What are we doing
 
-In simple terms, our goal is try to address the following issues in machine learning
+In simple terms, our goal is try to address the following issues in machine learning: 
 
 - Know what the machine knows, and **understand why it knows**
 
