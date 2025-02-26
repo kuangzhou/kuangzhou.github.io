@@ -7,6 +7,10 @@ redirect_from:
   - /publications.html
 ---
 
+# 2025
+
+- **Kuang Zhou**, Ming Jiang, Bogdan Gabrys,Yong Xu. Learning causal representations based on a GAE embedded autoencoder. IEEE Transactions on Knowledge and Data Engineering, 2025.  (Accepted)
+
 # 2024 
 
 - **Kuang Zhou**, Yuchen Zhu, Mei Guo, Ming Jiang. MvWECM: Multi-view weighted evidential c-Means clustering. Pattern Recognition, 2025, 159: 111108.
