@@ -9,7 +9,7 @@ redirect_from:
 
 # 2025
 
-- **Kuang Zhou**, Ming Jiang, Bogdan Gabrys,Yong Xu. Learning causal representations based on a GAE embedded autoencoder. IEEE Transactions on Knowledge and Data Engineering, 2025.  (Accepted)
+- **Kuang Zhou**, Ming Jiang, Bogdan Gabrys,Yong Xu. Learning causal representations based on a GAE embedded autoencoder. IEEE Transactions on Knowledge and Data Engineering, 2025, doi: 10.1109/TKDE.2025.3546607. 
 
 # 2024 
 
