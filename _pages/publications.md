@@ -7,24 +7,27 @@ redirect_from:
   - /publications.html
 ---
 
+The underlined names represent my students.
+
 # 2025
 
-- **Kuang Zhou**, Ming Jiang, Bogdan Gabrys,Yong Xu. Learning causal representations based on a GAE embedded autoencoder. IEEE Transactions on Knowledge and Data Engineering, 2025, doi: 10.1109/TKDE.2025.3546607. 
+- <u>Ming Jiang</u>, **Kuang Zhou**, <u>Jiahui Gao</u>, Fode Zhang. Integrating causal representations with domain adaptation for fault diagnosis. *Reliability Engineering & System Safety*, 2025. 
+- **Kuang Zhou**, <u>Ming Jiang</u>, Bogdan Gabrys,Yong Xu. Learning causal representations based on a GAE embedded autoencoder. IEEE Transactions on Knowledge and Data Engineering, 2025, doi: 10.1109/TKDE.2025.3546607. 
 
 # 2024 
 
-- **Kuang Zhou**, Yuchen Zhu, Mei Guo, Ming Jiang. MvWECM: Multi-view weighted evidential c-Means clustering. Pattern Recognition, 2025, 159: 111108.
+- **Kuang Zhou**, <u>Yuchen Zhu</u>, <u>Mei Guo</u>, <u>Ming Jiang</u>. MvWECM: Multi-view weighted evidential c-Means clustering. Pattern Recognition, 2025, 159: 111108.
 
 # 2023
 
-- **Kuang Zhou**, Ming Jiang, Bogdan Gabrys. GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation. IEEE Conference on Systems, Man, and Cybernetics, 2023, 3777-3782.
+- **Kuang Zhou**, <u>Ming Jiang</u>, Bogdan Gabrys. GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation. IEEE Conference on Systems, Man, and Cybernetics, 2023, 3777-3782.
 - Liang Wang, Dingqi Yang, Zhiwen Yu, Qi Han, En Wang, **Kuang Zhou**, Bin Guo. Acceptance-aware mobile crowdsourcing worker recruitment in social networks. IEEE Transactions on Mobile Computing, 2023, 22(2):634-646.
 
 # 2022
 
-- **Kuang Zhou**, Mei Guo, Arnaud Martin. Evidential prototype-based clustering based on transfer learning. International Journal of Approximate Reasoning, 2022, 151: 322-343. (Conference invited paper)
+- **Kuang Zhou**, <u>Mei Guo</u>, Arnaud Martin. Evidential prototype-based clustering based on transfer learning. International Journal of Approximate Reasoning, 2022, 151: 322-343. (Conference invited paper)
 - Zuowei Zhang, Zhunga Liu, Arnaud Martin, **Kuang Zhou**. BSC: Belief Shift Clustering. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 53(3): 1748-1760.
-- **Kuang Zhou**, Ming Jiang. Causal Transfer Evidential Clustering. International Conference on Belief Functions. Springer, Cham, 2022: 13-22.
+- **Kuang Zhou**, <u>Ming Jiang</u>. Causal Transfer Evidential Clustering. International Conference on Belief Functions. Springer, Cham, 2022: 13-22.
 
 # 2021
 
