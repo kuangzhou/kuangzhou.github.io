@@ -11,7 +11,7 @@ The underlined names represent my students.
 
 # 2025
 
-- <u>Ming Jiang</u>, **Kuang Zhou**, <u>Jiahui Gao</u>, Fode Zhang. Integrating causal representations with domain adaptation for fault diagnosis. *Reliability Engineering & System Safety*, 2025. 
+- <u>Ming Jiang</u>, **Kuang Zhou**, <u>Jiahui Gao</u>, Fode Zhang. Integrating causal representations with domain adaptation for fault diagnosis. Reliability Engineering & System Safety, 2025. 
 - **Kuang Zhou**, <u>Ming Jiang</u>, Bogdan Gabrys,Yong Xu. Learning causal representations based on a GAE embedded autoencoder. IEEE Transactions on Knowledge and Data Engineering, 2025, doi: 10.1109/TKDE.2025.3546607. 
 
 # 2024 
