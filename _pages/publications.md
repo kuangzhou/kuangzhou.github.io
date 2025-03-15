@@ -26,8 +26,8 @@ The underlined names represent my students.
 # 2022
 
 - **Kuang Zhou**, <u>Mei Guo</u>, Arnaud Martin. Evidential prototype-based clustering based on transfer learning. International Journal of Approximate Reasoning, 2022, 151: 322-343. 
-- Zuowei Zhang, Zhunga Liu, Arnaud Martin, **Kuang Zhou**. BSC: Belief Shift Clustering. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 53(3): 1748-1760.
-- **Kuang Zhou**, <u>Ming Jiang</u>. Causal Transfer Evidential Clustering. International Conference on Belief Functions. Springer, Cham, 2022: 13-22.
+- Zuowei Zhang, Zhunga Liu, Arnaud Martin, **Kuang Zhou**. BSC: Belief shift clustering. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 53(3): 1748-1760.
+- **Kuang Zhou**, <u>Ming Jiang</u>. Causal transfer evidential clustering. International Conference on Belief Functions. Springer, Cham, 2022: 13-22.
 
 # 2021
 
