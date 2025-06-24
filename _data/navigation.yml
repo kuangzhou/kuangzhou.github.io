@@ -1,5 +1,9 @@
 # main links links
 main:
+  - title: "NEWS"
+    url: /NEWS/
+
+
   - title: "CV"
     url: /cv/
 
