@@ -44,12 +44,11 @@ Research Interests
 
 # Projects
 
-- National Social Science Foundation of China: Predicting and regulating group behavior in social networks based on causal inference, 2023-2026, host
-- National Natural Science Foundation of China: Evidential community detection in dynamic and uncertain environment and its application to information flow control, 2018-2020, host
-- Natural Science Basic Research Plan in Shaanxi Province of China: Active evidential community mining on dynamic networks and information propagation, 2018-2019, host
-- Aeronautical Science Foundation of China, Joint Inference and Identification Technology of Multiple RF Sensors for Sea Surface Targets, Oct 2018 to Sep 2020, host
-- Collaborative project, Digital assembly technology based on data ming of adjustment part consumption, Jan 2021- Dec 2020, host
-- Collaborative project, Regression model for Information and energy, June 2018 -  June 2019, host
+- Natural Science Basic Research Plan in Shaanxi Province of China, No. 2025JC-YBMS-678, 2025-2026, host
+- National Social Science Foundation of China, No.23BTJ053, 2023-2026, host
+- National Natural Science Foundation of China, No. 61701409, 2018-2020, host
+- Natural Science Basic Research Plan in Shaanxi Province of China, No.2018JQ6005, 2018-2019, host
+- Aeronautical Science Foundation of China, No. 20182053023, 2018-2020, host
 
 
 Teaching
