@@ -1,10 +1,10 @@
 ---
-permalink: /chinesecv/
+permalink: /chinesecv_backup/
 title: ""
 author_profile: true
 redirect_from: 
   - /md/
-  - /chinesecv.html
+  - /chinesecv_backup.html
 ---
 
 # 教育经历
