@@ -6,6 +6,8 @@ redirect_from:
   - /news.html
 ---
 
+【25-11】我们在[IEEE CYBCONF2026](https://www.ieeecyb2026.net/)组织了专题: [复杂系统与复杂网络中的数据与智能驱动方法](https://kuangzhou.github.io/posts/2025/11/blog-post-1/), 欢迎各位专家学者赐稿
+
 【25-10】朱雨晨获研究生国家奖学金
 
 【25-10】团队基于深度学习的复杂网络关键节点识别的两项工作分别在IEEE SMC 2025、第21届全国全国复杂网络学术会议上报告
