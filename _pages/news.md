@@ -6,6 +6,8 @@ redirect_from:
   - /news.html
 ---
 
+【26-01】高嘉慧在复杂网络因果节点重要度评估方面的工作被复杂网络领域权威期刊IEEE TNSE接收
+
 【25-11】我们在[IEEE CYBCONF2026](https://www.ieeecyb2026.net/)组织了专题: [复杂系统与复杂网络中的数据与智能驱动方法](https://kuangzhou.github.io/posts/2025/11/blog-post-1/), 欢迎各位专家学者赐稿
 
 【25-10】朱雨晨获研究生国家奖学金
