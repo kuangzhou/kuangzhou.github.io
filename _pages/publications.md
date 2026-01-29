@@ -9,6 +9,10 @@ redirect_from:
 
 The underlined names represent my students.
 
+# 2026
+
+- <u>Jiahui Gao</u>, **Kuang Zhou**, <u>Yuchen Zhu</u>, Keyu Wu. Importance Ranking in Complex Networks via Influence-aware Causal Node Embedding. IEEE Transactions on Network Science and Engineering, 2026.
+
 # 2025
 
 - **Kuang Zhou**, <u>Chen Yan</u>, Yong Xu. The vulnerability of communities in complex networks: a causal perspective on dynamic retentivity. Reliability Engineering and System Safety, 2025, 262: 111171.
