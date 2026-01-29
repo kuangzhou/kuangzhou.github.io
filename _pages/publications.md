@@ -11,22 +11,22 @@ The underlined names represent my students.
 
 # 2026
 
-- <u>Jiahui Gao</u>, **Kuang Zhou**, <u>Yuchen Zhu</u>, Keyu Wu. Importance Ranking in Complex Networks via Influence-aware Causal Node Embedding. IEEE Transactions on Network Science and Engineering, 2026.
+- <u>Jiahui Gao</u>, **Kuang Zhou**, <u>Yuchen Zhu</u>, Keyu Wu. Importance ranking in complex networks via influence-aware causal node embedding. IEEE Transactions on Network Science and Engineering, 2026. (中科院一区)
 
 # 2025
 
-- **Kuang Zhou**, <u>Chen Yan</u>, Yong Xu. The vulnerability of communities in complex networks: a causal perspective on dynamic retentivity. Reliability Engineering and System Safety, 2025, 262: 111171.
+- **Kuang Zhou**, <u>Chen Yan</u>, Yong Xu. The vulnerability of communities in complex networks: a causal perspective on dynamic retentivity. Reliability Engineering and System Safety, 2025, 262: 111171. （中科院一区）
 - **Kuang Zhou**, <u>Wenbo Qin</u>, Tianyu Sun. Cross-domain fault diagnosis of rolling bearings based on trusted multisource domain adaptation. Control and Decision, 2025, 40(7): 2251-2260. (In Chinese)
-- <u>Ming Jiang</u>, **Kuang Zhou**, <u>Jiahui Gao</u>, Fode Zhang. Integrating causal representations with domain adaptation for fault diagnosis. Reliability Engineering and System Safety, 2025, 260: 110999. 
-- **Kuang Zhou**, <u>Ming Jiang</u>, Bogdan Gabrys, Yong Xu. Learning causal representations based on a GAE embedded autoencoder. IEEE Transactions on Knowledge and Data Engineering, 2025, 37(6): 3472-3484. 
+- <u>Ming Jiang</u>, **Kuang Zhou**, <u>Jiahui Gao</u>, Fode Zhang. Integrating causal representations with domain adaptation for fault diagnosis. Reliability Engineering and System Safety, 2025, 260: 110999.  （中科院一区）
+- **Kuang Zhou**, <u>Ming Jiang</u>, Bogdan Gabrys, Yong Xu. Learning causal representations based on a GAE embedded autoencoder. IEEE Transactions on Knowledge and Data Engineering, 2025, 37(6): 3472-3484. （中科院一区）
 
 # 2024 
 
-- **Kuang Zhou**, <u>Yuchen Zhu</u>, <u>Mei Guo</u>, <u>Ming Jiang</u>. MvWECM: Multi-view weighted evidential c-means clustering. Pattern Recognition, 2025, 159: 111108.
+- **Kuang Zhou**, <u>Yuchen Zhu</u>, <u>Mei Guo</u>, <u>Ming Jiang</u>. MvWECM: Multi-view weighted evidential c-means clustering. Pattern Recognition, 2025, 159: 111108.（中科院一区）
 
 # 2023
 
-- **Kuang Zhou**, <u>Ming Jiang</u>, Bogdan Gabrys. GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation. IEEE Conference on Systems, Man, and Cybernetics, 2023, 3777-3782.
+- **Kuang Zhou**, <u>Ming Jiang</u>, Bogdan Gabrys. GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation. IEEE Conference on Systems, Man, and Cybernetics, 2023, 3777-3782. （CCF C类）
 - Liang Wang, Dingqi Yang, Zhiwen Yu, Qi Han, En Wang, **Kuang Zhou**, Bin Guo. Acceptance-aware mobile crowdsourcing worker recruitment in social networks. IEEE Transactions on Mobile Computing, 2023, 22(2):634-646.
 
 # 2022
