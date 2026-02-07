@@ -11,6 +11,7 @@ The underlined names represent my students.
 
 # 2026
 
+- **Kuang Zhou**, <u>Zixin Zhang</u>, <u>Haomin Xu</u>, Liang Wang and Yimin Shi. Reliability analysis based on evidential likelihood for uncertain mixed weibull distribution. IEEE Transactions on Reliability, 2026. 
 - <u>Jiahui Gao</u>, **Kuang Zhou**, <u>Yuchen Zhu</u>, Keyu Wu. Importance ranking in complex networks via influence-aware causal node embedding. IEEE Transactions on Network Science and Engineering, 2026. (CAS Q1)
 
 # 2025
