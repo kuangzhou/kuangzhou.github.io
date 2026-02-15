@@ -10,11 +10,11 @@ redirect_from:
 
 # Research Interests
 
-- Statistical machine learning
-- Uncertain data analysis and fusion
 - Causal-inspired machine learning
+- Complex systems and complex networks
+- Uncertain data analysis and fusion
 - Graph data analysis
-- Reliability analysis
+- Reliability statistics and reliability analysis
 
 # What are we doing
 

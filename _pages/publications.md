@@ -16,6 +16,7 @@ The underlined names represent my students.
 
 # 2025
 
+- **Kuang Zhou**, <u>Jiahui Gao</u>. Key node identification for graphs based on graph attention networks,  IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2025: 4210-4215.
 - **Kuang Zhou**, <u>Chen Yan</u>, Yong Xu. The vulnerability of communities in complex networks: a causal perspective on dynamic retentivity. Reliability Engineering and System Safety, 2025, 262: 111171. (CAS Q1)
 - **Kuang Zhou**, <u>Wenbo Qin</u>, Tianyu Sun. Cross-domain fault diagnosis of rolling bearings based on trusted multisource domain adaptation. Control and Decision, 2025, 40(7): 2251-2260. (In Chinese)
 - <u>Ming Jiang</u>, **Kuang Zhou**, <u>Jiahui Gao</u>, Fode Zhang. Integrating causal representations with domain adaptation for fault diagnosis. Reliability Engineering and System Safety, 2025, 260: 110999. (CAS Q1)
