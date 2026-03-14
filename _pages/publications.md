@@ -12,8 +12,8 @@ The underlined names represent my students.
 # 2026
 
 - <u>Yuchen Zhu</u>, **Kuang Zhou**, Fabio Cuzzolin. TDCC: A trustworthy deep credal clustering method for uncertain data. IEEE Transactions on Cybernetics, 2026. (CAS Q1)
-- **Kuang Zhou**, <u>Zixin Zhang</u>, <u>Haomin Xu</u>, Liang Wang and Yimin Shi. Reliability analysis based on evidential likelihood for uncertain mixed weibull distribution. IEEE Transactions on Reliability, 2026. 
-- <u>Jiahui Gao</u>, **Kuang Zhou**, <u>Yuchen Zhu</u>, Keyu Wu. Importance ranking in complex networks via influence-aware causal node embedding. IEEE Transactions on Network Science and Engineering, 2026. (CAS Q1)
+- **Kuang Zhou**, <u>Zixin Zhang</u>, <u>Haomin Xu</u>, Liang Wang and Yimin Shi. Reliability analysis based on evidential likelihood for uncertain mixed weibull distribution. IEEE Transactions on Reliability, 2026, 75: 1020-1034. 
+- <u>Jiahui Gao</u>, **Kuang Zhou**, <u>Yuchen Zhu</u>, Keyu Wu. Importance ranking in complex networks via influence-aware causal node embedding. IEEE Transactions on Network Science and Engineering, 2026, 13: 6754-6771. (CAS Q1)
 
 # 2025
 
@@ -41,7 +41,7 @@ The underlined names represent my students.
 # 2021
 
 - Zuowei Zhang, Hongpeng Tian, Lingzhi Yan, Arnaud Martin, **Kuang Zhou**. Learning a credal classifier with optimized and adaptive multiestimation for missing data imputation. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021, 52(7): 4092-4104.
-- Zuowei Zhang, Zhunga Liu, Arnaud Martin, **Kuang Zhou**. Dynamic evidential clustering algorithm. Knowledge-Based Systems, 2021, 213: 106643.
+- Zuowei Zhang, Zhe Liu, Arnaud Martin, Zhunga Liu, **Kuang Zhou**. Dynamic evidential clustering algorithm. Knowledge-Based Systems, 2021, 213: 106643.
 - **Kuang Zhou**, Mei Guo, Arnaud Martin. Evidential clustering based on transfer learning. International Conference on Belief Functions. Springer, Cham, 2021: 56-65. (Award: Best paper)
 - **Kuang Zhou**, Mei Guo, Ming Jiang. Evidential weighted multi-view clustering. International Conference on Belief Functions. Springer, Cham, 2021: 22-32.
 
