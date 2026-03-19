@@ -11,6 +11,7 @@ The underlined names represent my students.
 
 # 2026
 
+- <u>Yuchen Zhu</u>, **Kuang Zhou**, Haishan Ye, Guang Dai, Ivor W. Tsang. HALO: Hardness-Aware Bilevel-Inspired Contrastive Graph Clustering. International Journal of Approximate Reasoning, 2026: 109657.
 - <u>Yuchen Zhu</u>, **Kuang Zhou**, Fabio Cuzzolin. TDCC: A trustworthy deep credal clustering method for uncertain data. IEEE Transactions on Cybernetics, 2026. (CAS Q1)
 - **Kuang Zhou**, <u>Zixin Zhang</u>, <u>Haomin Xu</u>, Liang Wang and Yimin Shi. Reliability analysis based on evidential likelihood for uncertain mixed weibull distribution. IEEE Transactions on Reliability, 2026, 75: 1020-1034. 
 - <u>Jiahui Gao</u>, **Kuang Zhou**, <u>Yuchen Zhu</u>, Keyu Wu. Importance ranking in complex networks via influence-aware causal node embedding. IEEE Transactions on Network Science and Engineering, 2026, 13: 6754-6771. (CAS Q1)
