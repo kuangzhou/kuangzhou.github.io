@@ -16,7 +16,7 @@ redirect_from:
 
 【26-02】我们在国际期刊Entropy组织了[因果推断与复杂系统的专刊](https://www.mdpi.com/journal/entropy/special_issues/SHW7L6T4J1)，欢迎各位专家学者赐稿（Deadline: 31 August 2026）
 
-【26-02】张梓昕在截尾寿命数据不确定统计推断方面的工作被可靠性领域顶级期刊IEEE Trans. Reliab接收
+【26-02】张梓昕在截尾寿命数据不确定统计推断方面的工作被可靠性领域顶级期刊IEEE Trans. Reliab. 接收
 
 【26-01】高嘉慧在复杂网络因果节点重要度评估方面的工作被复杂网络领域权威期刊IEEE TNSE接收
 
