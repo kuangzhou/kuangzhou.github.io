@@ -41,4 +41,5 @@ In simple terms, our goal is try to address the following issues in machine lear
 
   - 有执行力、思考力、预见力和沟通能力（大智若“鱼”：不躺不卷，关注当下，有条不紊地往前游）
 * 有兴趣的同学请邮件联系：kzhoumath@nwpu.edu.cn
+* ==【News】2026年统考还有1-2个学硕招生名额，欢迎报考咨询==
 
