@@ -32,7 +32,7 @@ In simple terms, our goal is try to address the following issues in machine lear
 
 # 招生信息
 
-* 招生专业：应用数学、概率论与数理统计、统计学
+* 招生专业：数学（应用数学、概率论与数理统计）、统计学
 * 欢迎有志于从事数据科学、统计机器学习等相关研究的同学加入本团队。报考前请确认：
 
   - 对统计、数据分析、机器学习有强烈兴趣（心怀热爱才会工作开心）
@@ -41,5 +41,6 @@ In simple terms, our goal is try to address the following issues in machine lear
 
   - 有执行力、思考力、预见力和沟通能力（大智若“鱼”：不躺不卷，关注当下，有条不紊地往前游）
 * 有兴趣的同学请邮件联系：kzhoumath@nwpu.edu.cn
-* **【News】2026年统考还有1-2个学硕招生名额，欢迎报考咨询**
+
+**【News】2026年统考还有2个学硕招生名额【复杂系统、数据科学方向】，欢迎报考咨询**
 
