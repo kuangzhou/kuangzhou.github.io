@@ -30,7 +30,7 @@ The underlined names represent my students.
 
 # 2023
 
-- **Kuang Zhou**, <u>Ming Jiang</u>, Bogdan Gabrys. GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation. IEEE Conference on Systems, Man, and Cybernetics, 2023, 3777-3782. (CCF C)
+- **Kuang Zhou**, <u>Ming Jiang</u>, Bogdan Gabrys. GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation. IEEE  International Conference on Systems, Man, and Cybernetics, 2023, 3777-3782. (CCF C)
 - Liang Wang, Dingqi Yang, Zhiwen Yu, Qi Han, En Wang, **Kuang Zhou**, Bin Guo. Acceptance-aware mobile crowdsourcing worker recruitment in social networks. IEEE Transactions on Mobile Computing, 2023, 22(2):634-646.
 
 # 2022
