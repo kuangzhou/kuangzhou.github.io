@@ -8,10 +8,10 @@ redirect_from:
 
 # 研究生
 
-- 2026级：杨可心
+- 2026级：杨可心，王纪窈
 - 2025级：徐昊旻，王杰
 - 2024级：高嘉慧（IEEE TNSE$\times$1），张馨丹
-- 2023级：朱雨晨（PR$\times$1, IEEE Trans. Cybern. $\times$1, IJAR $\times$1；国家奖学金$\times$2; 莫纳什大学攻博）
+- 2023级：朱雨晨（PR$\times$1, IEEE TCYB $\times$1, IJAR $\times$1；国家奖学金$\times$2; 莫纳什大学攻博）
 - 2022级：张梓昕（IEEE T. Reliab. $\times$ 1; 太行国家实验室），覃文博（控制与决策$\times$1；汇丰科技）
 - 2021级：姜名（IEEE TKDE$\times$1, RESS$\times$1； 中电27所），闫晨（RESS$\times$1；中石油）
 - 2020级：郭梅（IJAR$\times$1；某部队）
