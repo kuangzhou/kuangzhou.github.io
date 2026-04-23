@@ -6,21 +6,21 @@ redirect_from:
   - /news.html
 ---
 
-【26-03】朱雨晨完成硕士论文答辩顺利毕业
+【26-04】团队在IEEE CYBCONF 2026会议中组织“复杂系统与复杂网络中数据与智能驱动方法”专题，张馨丹、徐昊、周钰凯（本科生）分别汇报了团队在因果图分类、深度生存分析与复杂网络节点影响力评估中的最近研究进展
 
-【26-03】周旷当选中国仿真学会第三届复杂系统建模与仿真专业委员会委员
+【26-03】朱雨晨完成硕士论文答辩顺利毕业
 
 【26-02】朱雨晨在不确定对比图聚类方面的工作被国际期刊IJAR接收
 
 【26-02】朱雨晨在不确定聚类方面的工作被控制领域顶级期刊IEEE Trans. Cybern.接收
 
-【26-02】我们在国际期刊Entropy组织了[因果推断与复杂系统的专刊](https://www.mdpi.com/journal/entropy/special_issues/SHW7L6T4J1)，欢迎各位专家学者赐稿（Deadline: 31 August 2026）
+【26-02】团队在国际期刊Entropy组织了[因果推断与复杂系统的专刊](https://www.mdpi.com/journal/entropy/special_issues/SHW7L6T4J1)，欢迎各位专家学者赐稿（Deadline: 31 August 2026）
 
 【26-02】张梓昕在截尾寿命数据不确定统计推断方面的工作被可靠性领域顶级期刊IEEE Trans. Reliab. 接收
 
 【26-01】高嘉慧在复杂网络因果节点重要度评估方面的工作被复杂网络领域权威期刊IEEE TNSE接收
 
-【25-11】我们在[IEEE CYBCONF2026](https://www.ieeecyb2026.net/)组织了专题: [复杂系统与复杂网络中的数据与智能驱动方法](https://kuangzhou.github.io/posts/2025/11/blog-post-1/), 欢迎各位专家学者赐稿
+【25-11】团队在[IEEE CYBCONF2026](https://www.ieeecyb2026.net/)组织了专题: [复杂系统与复杂网络中的数据与智能驱动方法](https://kuangzhou.github.io/posts/2025/11/blog-post-1/), 欢迎各位专家学者赐稿
 
 【25-10】朱雨晨获研究生国家奖学金
 
