@@ -12,7 +12,7 @@ redirect_from:
 
 【26-02】朱雨晨在不确定对比图聚类方面的工作被国际期刊IJAR接收
 
-【26-02】朱雨晨在不确定聚类方面的工作被控制领域顶级期刊IEEE Trans. Cybern.接收
+【26-02】朱雨晨在不确定聚类方面的工作被控制领域顶级期刊IEEE TCYB接收
 
 【26-02】团队在国际期刊Entropy组织了[因果推断与复杂系统的专刊](https://www.mdpi.com/journal/entropy/special_issues/SHW7L6T4J1)，欢迎各位专家学者赐稿（Deadline: 31 August 2026）
 
