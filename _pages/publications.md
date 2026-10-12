@@ -11,6 +11,10 @@ The underlined names represent my students.
 
 # 2026
 
+- **Kuang Zhou**, <u>Xindan Zhang</u>. Causal-aware graph disentanglement model for interpretable molecular property prediction. IEEE International Conference on Cybernetics (CYBCONF), 2026: 191-196.
+- **Kuang Zhou**, <u>Haomin Xu</u>. Deep survival analysis for progressively censored data based on adversarial learning. IEEE International Conference on Cybernetics (CYBCONF), 2026: 185-190.
+- **Kuang Zhou**, <u>Jie Wang</u>. Evidential graph convolutional network for quantifying classification uncertainty. IEEE International Conference on Cybernetics (CYBCONF), 2026: 179-184.
+- <u>Yukai Zhou</u>, **Kuang Zhou**. Similarity-structured autoencoder for identifying influential nodes in complex networks.  IEEE International Conference on Cybernetics (CYBCONF), 2026: 203-208.
 - <u>Yuchen Zhu</u>, **Kuang Zhou**, Haishan Ye, Guang Dai, Ivor W. Tsang. HALO: Hardness-aware bilevel-inspired contrastive graph clustering. International Journal of Approximate Reasoning, 2026: 109657.
 - <u>Yuchen Zhu</u>, **Kuang Zhou**, Fabio Cuzzolin. TDCC: A trustworthy deep credal clustering method for uncertain data. IEEE Transactions on Cybernetics, 2026, 56(5): 2876-2887. (CAS Q1)
 - **Kuang Zhou**, <u>Zixin Zhang</u>, <u>Haomin Xu</u>, Liang Wang and Yimin Shi. Reliability analysis based on evidential likelihood for uncertain mixed weibull distribution. IEEE Transactions on Reliability, 2026, 75: 1020-1034. 
